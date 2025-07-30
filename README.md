@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Clima Agora Banner" width="100%">
+</p>
+
 # 🌦️ Clima Agora
 
 Aplicação web que permite consultar o clima em tempo real de qualquer cidade do mundo, utilizando a **API do OpenWeatherMap**.
@@ -30,4 +34,3 @@ Veja abaixo como a aplicação funciona:
 - CSS3
 - JavaScript (Vanilla)
 - [OpenWeatherMap API](https://openweathermap.org/api)
-
