@@ -31,9 +31,3 @@ Veja abaixo como a aplicação funciona:
 - JavaScript (Vanilla)
 - [OpenWeatherMap API](https://openweathermap.org/api)
 
----
-
-## 📌 Como executar localmente
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/Marcusdba/clima-agora.git
